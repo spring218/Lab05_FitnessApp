@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Quest</string>
+    <string name="start_tracking">🚀 Start Tracking</string>
+    <string name="sync_motivation">🔄 Sync &amp; Get Motivation</string>
+    <string name="steps_label">🚶 Steps</string>
+    <string name="calories_label">🔥 Calories</string>
+    <string name="points_label">⭐ Points</string>
+    <string name="default_motivation">Your fitness journey starts here!</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.FitnessTracker" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#3498DB</item>
+        <item name="colorPrimaryVariant">#2980B9</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#2ECC71</item>
+        <item name="colorSecondaryVariant">#27AE60</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize other theme attributes as needed -->
+        <item name="android:windowBackground">#F0F4F8</item>
+    </style>
+</resources> 
